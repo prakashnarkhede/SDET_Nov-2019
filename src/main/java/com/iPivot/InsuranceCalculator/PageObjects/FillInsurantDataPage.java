@@ -1,13 +1,18 @@
 package com.iPivot.InsuranceCalculator.PageObjects;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import com.iPivot.InsuranceCalculator.Utilities.commonMethods;
+
 public class FillInsurantDataPage {
+	commonMethods cm = new commonMethods();
 
 	@FindBy(id="firstname")
 	WebElement txt_firstname;
@@ -18,11 +23,11 @@ public class FillInsurantDataPage {
 	@FindBy(id="birthdate")
 	WebElement date_birthdate;
 	
-	@FindBy(xpath="//input[@name='Gender']/following-sibling::span")
+	@FindBy(xpath="//input[@name='Gender']/parent::label")
 	List<WebElement> rdo_gender;
 	
 	@FindBy(id="country")
-	WebElement txt_country;
+	WebElement dd_country;
 	
 	
 	@FindBy(id="zipcode")
@@ -34,7 +39,7 @@ public class FillInsurantDataPage {
 	@FindBy(id="occupation")
 	WebElement dd_occupation;
 	
-	@FindBy(xpath="//input[@name='Hobbies']/following-sibling::span")
+	@FindBy(xpath="//input[@name='Hobbies']/parent::label")
 	List<WebElement> chk_hobbies;
 	
 	@FindBy(id="website")
@@ -50,5 +55,31 @@ public class FillInsurantDataPage {
 	//constructor of current Class, use PageFactory class
 	public FillInsurantDataPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
+	}
+	
+	public void fillActualInsurantData(Map m) throws InterruptedException {
+		txt_firstname.sendKeys("Prakahs");
+		txt_lastname.sendKeys("Narkhede");
+		date_birthdate.sendKeys("12/03/1989");
+		
+		cm.SelectRadioButtonValue(rdo_gender, "Male");
+
+		cm.selectValueFromDropDown(dd_country, "Aruba");
+		txt_zipcode.sendKeys("411061");
+		txt_city.sendKeys("Pune");
+		cm.selectValueFromDropDown(dd_occupation, "Farmer");
+		
+		//temp arrangement for list of hobbies
+		List<String> hobbies = new ArrayList<String>();
+		hobbies.add("Speeding");
+		hobbies.add("Other");
+		//handle checkBoxes here
+		cm.selectCheckBoxes(chk_hobbies, hobbies);
+		txt_website.sendKeys("www.google.com");
+	
+	}
+	
+	public void clickOnNextButton() {
+		btn_Next.click();
 	}
 }

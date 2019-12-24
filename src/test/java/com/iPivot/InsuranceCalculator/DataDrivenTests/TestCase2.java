@@ -24,6 +24,7 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+import com.beust.jcommander.Parameter;
 import com.iPivot.InsuranceCalculator.PageObjects.ChoosePriceOptionsPage;
 import com.iPivot.InsuranceCalculator.PageObjects.FillInsurantDataPage;
 import com.iPivot.InsuranceCalculator.PageObjects.FillProductData;
@@ -31,7 +32,7 @@ import com.iPivot.InsuranceCalculator.PageObjects.FillVehicleDataPage;
 import com.iPivot.InsuranceCalculator.TestBase.TestBaseClass;
 import com.iPivot.InsuranceCalculator.Utilities.excelRead;
 
-public class TestCase1 {
+public class TestCase2 {
 	TestBaseClass tb = new TestBaseClass();
 	ExtentReports extent;
 	ExtentTest logger;
@@ -67,47 +68,32 @@ public class TestCase1 {
 		 
 	}
 	
-	@Test (dataProvider = "insuranceCalcData")
-	public void Test1(Map mapdata) throws InterruptedException {
-		//one common line you need to write in each and every test case which should be reported in extent report.
-	    logger = extent.createTest("Test1");
-	    //enter vehicle data
+	@Test
+	public void Test1() throws InterruptedException {
+		
+		//create some method who will give specifc row data in map for respectivc test case
+	    Map mapdata = excel.getMapDataFromRow(1);
+		
+		vehData.fillActualVehicalData(mapdata);
+	    vehData.clickOnNextButton();
+	}
+	
+	@Test 
+	public void Test2(Map mapdata) throws InterruptedException {
+	    Map mapdata1 = excel.getMapDataFromRow(2);
 
+	    vehData.fillActualVehicalData(mapdata1);
+	    vehData.clickOnNextButton();
+	}
+	
+	
+	@Test 
+	public void Test3(Map mapdata) throws InterruptedException {
 	    vehData.fillActualVehicalData(mapdata);
 	    vehData.clickOnNextButton();
-	    
-	    //enter insurant data
-	    insData.fillActualInsurantData(mapdata);
-	    insData.clickOnNextButton();
-	    
-	    //enter product data
-	    prodData.fillActualProductData(mapdata);
-	    prodData.clickOnNextButton();
-	    
-	    //verify price options
-	    priceOptions.verifySilverPlanPrice(mapdata.get("PriceValidation_Silver").toString());
-	    priceOptions.verifyGoldPlanPrice(mapdata.get("PriceValidation_Gold").toString());
-	    priceOptions.verifyPlatinumPlanPrice(mapdata.get("PriceValidation_Platinum").toString());
-	    priceOptions.verifyUltimatePlanPrice(mapdata.get("PriceValidation_Ultimate").toString());
-	    if(mapdata.get("SelectOption").toString().equalsIgnoreCase("Silver")) {
-	        priceOptions.selectSilverPlan();    	
-	    }
-	    if(mapdata.get("SelectOption").toString().equalsIgnoreCase("Gold")) {
-	        priceOptions.selectGoldrPlan();    	
-	    }
-	    if(mapdata.get("SelectOption").toString().equalsIgnoreCase("Platinum")) {
-	        priceOptions.selectPlatinumPlan();    	
-	    }
-	    priceOptions.clickOnNextButton();
-	    
 	}
 	
-	
-	@DataProvider(name= "insuranceCalcData")
-	public Object[][] dataProviderMethod() throws Exception {
-		Object[][] arr = excel.ExcelDataInObjectArray();
-		return arr;
-	}
+
 	
 	@Test (enabled =  true) 
 	public void Test2() {
