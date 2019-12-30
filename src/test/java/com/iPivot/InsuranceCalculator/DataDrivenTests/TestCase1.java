@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.Map;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -15,6 +16,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.ExtentReports;
@@ -31,6 +33,8 @@ import com.iPivot.InsuranceCalculator.PageObjects.FillVehicleDataPage;
 import com.iPivot.InsuranceCalculator.TestBase.TestBaseClass;
 import com.iPivot.InsuranceCalculator.Utilities.excelRead;
 
+
+@Listeners(com.iPivot.InsuranceCalculator.Utilities.ListenerClass.class)
 public class TestCase1 {
 	TestBaseClass tb = new TestBaseClass();
 	ExtentReports extent;
@@ -41,8 +45,10 @@ public class TestCase1 {
 	FillProductData prodData;
 	ChoosePriceOptionsPage priceOptions;
 	excelRead excel = new excelRead();
-
 	
+	//logger class object
+	Logger log = Logger.getLogger(TestCase1.class.getName());
+
 	
 	@BeforeClass
 	public void reportSetup() {
@@ -53,6 +59,7 @@ public class TestCase1 {
 		html.config().setDocumentTitle("Test Automation Report - Execution Report - Insurance Calculator Project");
 		 html.config().setReportName("Test Automation Report - Execution Report - Insurance Calculator Project");
 		 html.config().setTheme(Theme.DARK);
+		 log.info("Extent report setting is completed !!!!!");
 	}
 	
 	
@@ -67,8 +74,10 @@ public class TestCase1 {
 		 
 	}
 	
-	@Test (dataProvider = "insuranceCalcData")
+	@Test (dataProvider = "insuranceCalcData", enabled = true)
 	public void Test1(Map mapdata) throws InterruptedException {
+		
+		log.info("Test case exeuction started !!!!");
 		//one common line you need to write in each and every test case which should be reported in extent report.
 	    logger = extent.createTest("Test1");
 	    //enter vehicle data
@@ -99,7 +108,7 @@ public class TestCase1 {
 	        priceOptions.selectPlatinumPlan();    	
 	    }
 	    priceOptions.clickOnNextButton();
-	    
+	   log.info("Test execution is finished"); 
 	}
 	
 	
@@ -113,6 +122,7 @@ public class TestCase1 {
 	public void Test2() {
 		logger = extent.createTest("Test2");
 		System.out.println("test case 2");
+
 		Assert.assertEquals("ddd", "kkk");
 	}
 	
