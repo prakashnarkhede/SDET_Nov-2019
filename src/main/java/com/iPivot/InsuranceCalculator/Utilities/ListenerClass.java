@@ -11,7 +11,7 @@ public class ListenerClass implements ITestListener{
 
 	@Override
 	public void onTestSuccess(ITestResult result) {
-		log.info("Test Case Execution is success for Test Case: "+result.getTestName().toString());
+		//log.info("Test Case Execution is success for Test Case: "+result.getTestName().toString());
 
 	}
 	@Override

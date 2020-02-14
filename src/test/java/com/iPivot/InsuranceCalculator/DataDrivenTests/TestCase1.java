@@ -123,7 +123,14 @@ public class TestCase1 {
 		logger = extent.createTest("Test2");
 		System.out.println("test case 2");
 
-		Assert.assertEquals("ddd", "kkk");
+		Assert.assertEquals("United States", "Denmark", "Expected Country in Country code List was United States, But found Denmark");
+	}
+	@Test (enabled =  true) 
+	public void Test3() {
+		logger = extent.createTest("Test3");
+		System.out.println("test case 3");
+
+		Assert.assertEquals("United States", "United States", "Expected Country in Country code List was United States, But found Denmark");
 	}
 	
 	@AfterMethod

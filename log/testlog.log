@@ -43,3 +43,199 @@
 2019-12-26 22:22:24,139 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
 2019-12-26 22:22:24,156 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
 2019-12-26 22:22:24,166 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:44,979 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 13:57:45,665 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: firefox
+2020-02-14 13:57:45,665 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 13:57:50,633 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,643 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,644 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,650 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,656 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,659 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,660 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,664 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,668 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,672 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,672 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,676 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,681 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,687 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 13:57:50,687 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:57:50,690 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is skipped for Test Case: 
+2020-02-14 13:59:57,740 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 13:59:58,543 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 13:59:58,543 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:00:21,846 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:00:21,857 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:00:24,735 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:00:25,815 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:00:25,815 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:00:36,548 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:00:36,550 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:00:39,621 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:00:40,696 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:00:40,697 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:00:51,524 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:00:51,525 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:00:54,268 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:00:55,306 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:00:55,306 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:01:06,188 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:01:06,194 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:02:34,934 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 14:02:35,560 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:02:35,561 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:02:47,738 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:02:47,744 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:02:47,745 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:02:52,053 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:02:52,056 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:02:53,139 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:02:53,140 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:03:04,132 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:04,134 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:04,135 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:03:08,449 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:08,451 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:09,477 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:03:09,482 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:03:20,385 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:20,386 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:20,387 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:03:24,836 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:24,838 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:25,901 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:03:25,902 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:03:36,912 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:36,914 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:36,917 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:03:36,921 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:18,925 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 14:06:19,515 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:06:19,515 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:06:31,345 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:31,352 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:31,353 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:06:36,250 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:36,253 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:37,386 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:06:37,387 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:06:48,490 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:48,493 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:48,494 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:06:52,868 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:52,870 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:06:53,927 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:06:53,928 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:07:04,683 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:04,685 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:04,685 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:07:08,980 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:08,981 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:10,025 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:07:10,025 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:07:21,155 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:21,156 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:21,157 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:07:21,159 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:08:55,950 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 14:08:56,549 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:08:56,549 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:09:08,403 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:08,409 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:08,410 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:09:13,453 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test execution is finished
+2020-02-14 14:09:13,457 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:13,461 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:13,463 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:09:13,463 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:09:24,520 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:24,521 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:24,524 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:09:24,526 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:10:38,367 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 14:10:39,010 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:10:39,010 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:10:51,044 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:10:51,055 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:10:55,807 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:10:56,895 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:10:56,897 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:11:07,619 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:11:07,620 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:11:12,014 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:11:13,061 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:11:13,062 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:11:23,935 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:11:23,937 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:11:28,287 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:11:29,327 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:11:29,327 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:11:40,142 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:11:40,144 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:12:39,295 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 14:12:39,880 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:12:39,880 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:12:52,020 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:12:52,027 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:12:52,028 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:12:56,451 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:12:56,453 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:12:57,527 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:12:57,528 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:13:08,689 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:08,691 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:08,692 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:13:13,328 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:13,330 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:14,407 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:13:14,408 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:13:25,293 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:25,294 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:25,294 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:13:29,554 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:29,556 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:30,705 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:13:30,706 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:13:41,373 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:41,375 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:41,377 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:41,381 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:42,408 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:13:42,408 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:13:53,387 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:53,388 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:53,389 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:13:53,390 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:20,673 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Extent report setting is completed !!!!!
+2020-02-14 14:15:21,442 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:15:21,442 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:15:34,325 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:34,337 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:34,338 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:15:39,761 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:39,765 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:40,889 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:15:40,890 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:15:52,202 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:52,205 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:52,206 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:15:57,405 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:57,409 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:15:58,515 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:15:58,519 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:16:09,420 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:09,423 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:09,424 - com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1 -INFO - Test case exeuction started !!!!
+2020-02-14 14:16:14,530 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:14,533 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:15,684 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:16:15,685 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:16:26,658 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:26,662 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:26,665 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:26,669 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is failed for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:27,769 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - Browser selcted for test execution is: chrome
+2020-02-14 14:16:27,771 - com.iPivot.InsuranceCalculator.TestBase.TestBaseClass -INFO - URL used for testing is: http://demo.automationtalks.com/
+2020-02-14 14:16:38,733 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1
+2020-02-14 14:16:38,737 - com.iPivot.InsuranceCalculator.Utilities.ListenerClass -INFO - Test Case Execution is started for Test Case: com.iPivot.InsuranceCalculator.DataDrivenTests.TestCase1

@@ -69,10 +69,20 @@ public class FillInsurantDataPage {
 		txt_city.sendKeys("Pune");
 		cm.selectValueFromDropDown(dd_occupation, "Farmer");
 		
+		String hobboesData = m.get("Insurant_Hobby").toString();
+		// hobbiesData = Speeding;Other
+		 // var = EuroProtection
+		String[] arr = hobboesData.split(";");
 		//temp arrangement for list of hobbies
-		List<String> hobbies = new ArrayList<String>();
-		hobbies.add("Speeding");
-		hobbies.add("Other");
+				List<String> hobbies = new ArrayList<String>();
+		for (String s : arr) {
+			hobbies.add(s);
+		}
+		
+		
+		
+	//	hobbies.add("Speeding");
+	//	hobbies.add("Other");
 		//handle checkBoxes here
 		cm.selectCheckBoxes(chk_hobbies, hobbies);
 		txt_website.sendKeys("www.google.com");

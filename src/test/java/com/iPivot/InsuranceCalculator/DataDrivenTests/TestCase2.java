@@ -5,9 +5,13 @@ import java.io.IOException;
 import java.util.Map;
 
 import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.interactions.Interaction;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
@@ -69,13 +73,18 @@ public class TestCase2 {
 	}
 	
 	@Test
-	public void Test1() throws InterruptedException {
+	public void Test1() throws InterruptedException, Exception {
 		
 		//create some method who will give specifc row data in map for respectivc test case
 	    Map mapdata = excel.getMapDataFromRow(1);
 		
 		vehData.fillActualVehicalData(mapdata);
 	    vehData.clickOnNextButton();
+	    
+File f = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+	FileUtils.copyFile(f, new File(""));
+	Actions act = new Actions(driver);
+	act.moveToElement(driver.findElement(By.linkText(""))).build().perform();
 	}
 	
 	@Test 

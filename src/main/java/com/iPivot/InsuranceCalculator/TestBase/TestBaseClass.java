@@ -41,10 +41,10 @@ public class TestBaseClass {
 			throw new Exception("Browser value is not set in properties file");
 		}
 		if(browser.equalsIgnoreCase("chrome")) {
-//			WebDriverManager.chromedriver().setup();
-//			 driver = new ChromeDriver();
-			DesiredCapabilities capability = DesiredCapabilities.chrome();
-            WebDriver driver = new RemoteWebDriver(new URL("http://192.168.1.105:4444/wd/hub"), capability);
+			WebDriverManager.chromedriver().setup();
+			 driver = new ChromeDriver();
+//			DesiredCapabilities capability = DesiredCapabilities.chrome();
+//            WebDriver driver = new RemoteWebDriver(new URL("http://192.168.1.105:4444/wd/hub"), capability);
 
 		} else if(browser.equalsIgnoreCase("firefox")) {
 			
